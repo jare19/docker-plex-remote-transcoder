@@ -1,4 +1,4 @@
-FROM plexinc/pms-docker:latest
+FROM plexinc/pms-docker:plexpass
 MAINTAINER Simon Hartcher <github.com/deevus>
 
 ENV MASTER_IP=master_ip \
